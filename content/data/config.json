@@ -65,7 +65,7 @@
             },
             {
                 "label": "My title",
-                "url": "#",
+                "url": "#aaa",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
